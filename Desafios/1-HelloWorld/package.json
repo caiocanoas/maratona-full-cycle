@@ -1,0 +1,26 @@
+{
+  "name": "1-helloworld",
+  "version": "1.0.0",
+  "description": "Primeiro desafio da maratona Full Cycle 4.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiocanoas/maratona-full-cycle.git"
+  },
+  "keywords": [
+    "FullCycle",
+    "Docker"
+  ],
+  "author": "Caio Canoas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiocanoas/maratona-full-cycle/issues"
+  },
+  "homepage": "https://github.com/caiocanoas/maratona-full-cycle#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
